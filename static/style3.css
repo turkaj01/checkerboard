@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    gap: 0px;
+}
+
+.black {
+    height: 90px;
+    width: 90px;
+    margin: 0px;
+}
+
+.red {
+    height: 90px;
+    width: 90px;
+    margin: 0px;
+}
+
+.row {
+    display: flex;
+    margin-left: 10%;
+    padding: 0px;
+    border: 0px;
+    gap: 0px;
+}
